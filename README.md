@@ -5,7 +5,7 @@
 > <br>
 > 🌱 Sou estudante de TI, apaixonada por tecnologia e futura programadora Full-Stack.
 > <br>
->🚀 Venha fazer parte da minha jornada!6
+>🚀 Venha fazer parte da minha jornada!
 
 ## 📱 Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5D3587?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j%C3%BAlia-bock-medina/)
