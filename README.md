@@ -3,9 +3,9 @@
 
 > 👋🏼 Olá, que bom ter você aqui!
 > <br>
-> 🌱 Sou graduanda em Sitemas para Interneet, apaixonada por tecnologia e futura programadora Full-Stack.
+> 🌱 Sou graduanda em Sitemas para Internet, técnica em informática e programadora full-stack em desenvolvimento.
 > <br>
->🚀 Venha fazer parte da minha jornada!
+> 🚀 Venha fazer parte da minha jornada!
 
 ## 📱 Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5D3587?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-julia-bock-medina/)
@@ -14,15 +14,17 @@
 
 
 ## 📖 Habilidades Técnicas | Hardskils
+![Python](https://img.shields.io/badge/python-5D3587?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-5D3587?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-5D3587?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-5D3587?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-5D3587?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-5D3587?style=for-the-badge&logo=javascript&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-5D3587?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-5D3587?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 ![Java](https://img.shields.io/badge/java-5D3587.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-5D3587.svg?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5D3587.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-5D3587.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-5D3587?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-5D3587.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 
  
