@@ -1,7 +1,7 @@
 
 # Ana Júlia Bock Medina
 
-> Sou graduanda em Sitemas para Internet, técnica em informática e programadora full-stack em desenvolvimento.
+> Sou graduanda em Sitemas para Internet, técnica em informática e programadora backend em desenvolvimento.
 
 ## Conecte-se comigo
 
