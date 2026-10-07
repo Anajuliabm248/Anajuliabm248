@@ -1,69 +1,49 @@
-
-# Ana Júlia Bock Medina
-
-> Sou graduanda em Sitemas para Internet, técnica em informática e programadora backend em desenvolvimento.
-
-## Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5D3587?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-julia-bock-medina/)
-[![E-mail](https://img.shields.io/badge/Email-5D3587?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anajuliabm248@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5D3587?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anajuliabm248)
-
-## Hardskils
-
-<table><tr><td valign="top" width="25%">
-
-### Frontend  
-
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<div align="center">
+<H1>Hello, I'm Ana! </H1>
 </div>
 
-</td><td valign="top" width="25%">
+## About Me
+
+- 🎓 Undergraduate student in **Internet Systems at UFSM**
+- 💻 Aspiring **Backend Developer**
+- 🐑 Scholarship student on the **OvinoCerto 2.6** project
+- 🌱 Currently improving my skills in **backend development and software engineering**
+
+
+## Tech Stack
+
+### Frontend
+
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/> </p>
 
 ### Backend
 
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/> </p>
+
+### Databases
+
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="45" height="45"/> </p>
+
+### Tools & DevOps
+
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/> </p>
+
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anajuliabm248&show_icons=true&hide_title=true&hide=stars&bg_color=5D3587&title_color=FFD1E3&text_color=FFFFFF&icon_color=FFD1E3&border\_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anajuliabm248&layout=compact&langs_count=7&bg_color=5D3587&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD1E3&border_color=FFFFFF"/>
 </div>
 
-</td><td valign="top" width="25%">
 
-### Banco de Dados
+## Connect With Me
 
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
+<p align="left"> <a href="https://www.linkedin.com/in/ana-julia-bock-medina/"> <img src="https://img.shields.io/badge/LinkedIn-5D3587?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
+  <a href="mailto:anajuliabm248@gmail.com"\> <img src="https://img.shields.io/badge/Email-5D3587?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 
-</td><td valign="top" width="25%">
-
-### DevOps  
-
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-
-## Principais linguagens utilizadas
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anajuliabm248&layout=compact&langs_count=7&bg_color=5D3587&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD1E3&border_color=FFFFFF)
-
-## Commits
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Anajuliabm248&show_icons=true&hide_title=true&hide=stars&bg_color=5D3587&title_color=FFD1E3&text_color=FFFFFF&icon_color=FFD1E3&border_color=FFFFFF)
